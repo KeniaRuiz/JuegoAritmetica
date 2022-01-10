@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JuegoAritmetica</string>
+    <string name="title">¿Con que operación quieres jugar?</string>
+    <string name="title_operacion_s">Suma</string>
+    <string name="title_operacion_r">Resta</string>
+    <string name="title_operacion_d">División</string>
+    <string name="title_operacion_m">Multiplicación</string>
+    <string name="puntuacion">Puntuación:   </string>
+    <string name="operando1"></string>
+    <string name="operando2"></string>
+    <string name="operando_s">+</string>
+    <string name="operando_r">-</string>
+    <string name="operando_m">x</string>
+    <string name="operando_d">÷</string>
+    <string name="resultado"></string>
+    <string name="regresar">← Menú</string>
+    <string name="revisar">Revisar</string>
+</resources>
